@@ -1,0 +1,22 @@
+{
+  "name": "com.merlinds.kazkar",
+  "displayName": "Kazkar",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "type": "library",
+  "description": "Encounter-based nonlinear quest engine.",
+  "keywords": ["Quest", "Encounter", "Story", "Nonlinear"],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/MerlinDS/Kazkar/wiki",
+  "changelogUrl": "https://github.com/MerlinDS/Kazkar/releases",
+  "licensesUrl": "https://github.com/MerlinDS/Kazkar/blob/master/LICENSE",
+  "repository": {
+    "url": "https://github.com/MerlinDS/Kazkar",
+    "type": "git"
+  },
+  "author": {
+    "name": "MerlinDS",
+    "email": "andy.salomatin@gmail.com",
+    "url": "https://merlinds.github.io/merlinds/"
+  }
+}
